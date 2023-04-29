@@ -1,5 +1,5 @@
 # bilibiliflashplayer
-Menu：
+Menu:
 play_v3.swf
 play.swf
 play_recommend.swf
